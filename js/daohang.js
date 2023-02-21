@@ -179,7 +179,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Ye.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Ye.png";
-			judgepic(src2);
+			//judgepic(src2);
 
 		}
 		
@@ -188,7 +188,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Tian.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Tian.png";
-			judgepic(src2);
+			//judgepic(src2);
 
 		}
 		
@@ -197,7 +197,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Da.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Da.png";
-			judgepic(src2);
+			//judgepic(src2);
 		
 		}
 		
@@ -206,7 +206,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Shui.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Shui.png";
-			judgepic(src2);
+			//judgepic(src2);
 		
 		}
 		
@@ -215,7 +215,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Yi.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Yi.png";
-			judgepic(src2);
+			//judgepic(src2);
 		
 		}
 		
@@ -224,7 +224,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Yu.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Yu.png";
-			judgepic(src2);
+			//judgepic(src2);
 		
 		}
 		
@@ -233,7 +233,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Shan.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Shan.png";
-			judgepic(src2);
+			//judgepic(src2);
 		
 		}
 		
@@ -242,7 +242,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/You.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/You.png";
-			judgepic(src2);
+			//judgepic(src2);
 		
 		}
 	
@@ -251,7 +251,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Zhi.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Zhi.png";
-			judgepic(src2);
+			//judgepic(src2);
 		
 		}
 		document.getElementById("zhi2").onclick =function(){
@@ -259,7 +259,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Zhi.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Zhi.png";
-			judgepic(src2);
+			//judgepic(src2);
 		
 		}
 		
@@ -268,7 +268,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Ren.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Ren.png";
-			judgepic(src2);
+			//judgepic(src2);
 		
 		}
 		document.getElementById("ren2").onclick =function(){
@@ -276,7 +276,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Ren.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Ren.png";
-			judgepic(src2);
+			//judgepic(src2);
 		
 		}
 		
