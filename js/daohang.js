@@ -22,6 +22,7 @@
 	function num(n){
 		console.log("got from python" + n);
 	}*/
+	/*
 	async function judgepic(src){
 		let check = await eel.checkfile(src)();
 		console.log(check);
@@ -33,6 +34,7 @@
 		}
 		changecircle();
 	}
+	*/
 
 		document.getElementById("catalogue_1").onclick =  function () {
 			pictitle.src = "img/pictitle/1.png";
