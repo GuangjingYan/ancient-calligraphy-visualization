@@ -1,2 +1,2 @@
 # ancient-calligraphy-visualization
-Chinese ancient calligraphy data visualization demo
+This is a Chinese ancient calligraphy data visualization demo
