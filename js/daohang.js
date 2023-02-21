@@ -8,6 +8,7 @@
 		document.getElementById("circle2").setAttribute("src", src2);
 	}
 	function judgeid(id){
+		console.log(id);
 		if(id=="1"||id=="22"||id=="10"||id=="19") {
 			titleid = titleid + ".1";
 			//console.log(id);
@@ -179,6 +180,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Ye.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Ye.png";
+			changecircle();
 			//judgepic(src2);
 
 		}
@@ -188,6 +190,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Tian.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Tian.png";
+			changecircle();
 			//judgepic(src2);
 
 		}
@@ -197,6 +200,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Da.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Da.png";
+			changecircle();
 			//judgepic(src2);
 		
 		}
@@ -206,6 +210,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Shui.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Shui.png";
+			changecircle();
 			//judgepic(src2);
 		
 		}
@@ -215,6 +220,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Yi.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Yi.png";
+			changecircle();
 			//judgepic(src2);
 		
 		}
@@ -224,6 +230,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Yu.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Yu.png";
+			changecircle();
 			//judgepic(src2);
 		
 		}
@@ -233,6 +240,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Shan.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Shan.png";
+			changecircle();
 			//judgepic(src2);
 		
 		}
@@ -242,6 +250,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/You.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/You.png";
+			changecircle();
 			//judgepic(src2);
 		
 		}
@@ -251,6 +260,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Zhi.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Zhi.png";
+			changecircle();
 			//judgepic(src2);
 		
 		}
@@ -259,6 +269,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Zhi.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Zhi.png";
+			changecircle();
 			//judgepic(src2);
 		
 		}
@@ -268,6 +279,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Ren.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Ren.png";
+			changecircle();
 			//judgepic(src2);
 		
 		}
@@ -276,6 +288,7 @@
 			judgeid(titleid);
 			src1 = "img/compared_pics/compared_Wang/processed/Ren.png";
 			src2 = "img/compared_pics/" + titleid + "/processed/Ren.png";
+			changecircle();
 			//judgepic(src2);
 		
 		}
